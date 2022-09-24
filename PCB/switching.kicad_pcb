@@ -1978,7 +1978,7 @@
   )
 
   (gr_rect (start 26.4 47) (end 136.2 84.9) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 738830e1-f18c-4df0-93b3-aa36f7e45c71))
-  (gr_text "switching v1" (at 105.25 52.75) (layer "F.SilkS") (tstamp b56ad8ce-d1e2-4864-b4f6-85f351be98cd)
+  (gr_text "switching v1" (at 105.25 53) (layer "F.SilkS") (tstamp b56ad8ce-d1e2-4864-b4f6-85f351be98cd)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
 
