@@ -2,7 +2,7 @@ name: "FABrication Output"
 on:
   push:
     paths:
-      - 'PCB/**'
+      - 'PCB/*'
     tags:
       - pcb-v*
   workflow_dispatch:
@@ -55,4 +55,5 @@ jobs:
           files: |
             ${{ env.OutputFolder }}/*.zip
             ${{ env.OutputFolder }}/*.pdf
+            ${{ env.OutputFolder }}/*.csv
         
