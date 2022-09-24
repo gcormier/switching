@@ -3,8 +3,8 @@ on:
   push:
     paths:
       - 'PCB/*'
-    tags:
-      - pcb-v*
+    #tags:
+    # - pcb-v*
   workflow_dispatch:
     
 
