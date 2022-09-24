@@ -70,7 +70,7 @@ outputs:
     type: compress
     dir: ./
     options:
-      output: megadesk-gerbers.zip
+      output: switching-gerbers.zip
       files:
         - from_output: JLCPCB_gerbers
           dest: /
