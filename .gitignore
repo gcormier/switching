@@ -25,6 +25,3 @@ fp-info-cache
 *.xml
 *.csv
 PCB/*-backups
-PCB/switching-backups/*
-PCB/switching-backups
-./PCB/switching-backups/*
